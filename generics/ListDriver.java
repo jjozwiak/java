@@ -4,7 +4,7 @@ public class ListDriver {
 
 
         // Note that we are not using string or int primitives to initialize
-        // This is because the generic datatype is initialized using the Object class
+        // This is because the generic datatype is initialized using the Object clsas
         List<String> glist = new List<String>(10);
         glist.add("Milk");
         glist.add("Eggs");
